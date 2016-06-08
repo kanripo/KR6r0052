@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 14:13
+#+DATE: 2016-06-08 14:14
 #+TITLE: 高僧傳
 #+PROPERTY: CBETA_ID T50n2059
 #+PROPERTY: ID KR6r0052
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2059
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6r0052_T_008-0375a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
@@ -581,7 +581,7 @@
 之初卒于治城寺。春秋六十有三。會葬之¶
 日。黑白奔赴。街巷填闉。士庶含酸榮哀以¶
 備。時治城又有僧若道乘。乘當時令問。若¶
-與兄僧璿並善諸經及外書。若誦法華工¶
+與兄僧[王*(虍-七+(一/八/八/目))]並善諸經及外書。若誦法華工¶
 草隷。後為吳國僧正。乘亦志業明敏。而特¶
 善毘曇。¶
 

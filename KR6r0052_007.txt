@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 14:13
+#+DATE: 2016-06-08 14:14
 #+TITLE: 高僧傳
 #+PROPERTY: CBETA_ID T50n2059
 #+PROPERTY: ID KR6r0052
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2059
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6r0052_T_007-0366b> ¶
 #+PROPERTY: JUAN 7
 ¶
@@ -279,7 +279,7 @@
 釋道淵。姓寇。不知何許人。出家止京師東¶
 安寺。少持律撿長習義宗。眾經數論靡不¶
 通達。而潛光隱德世莫之知。後於東安寺¶
-開講。剖析玄微洞盡幽賾。使終古積滯渙¶
+開講。剖析玄微洞盡幽[(厂-一)*臣*責]。使終古積滯渙¶
 然氷解。於是學徒改觀翕然附德。後移止¶
 彭城寺。宋文帝以淵行為物軌。勅居寺住。¶
 後卒於所住。春秋七十有八。淵弟子慧琳。本¶
